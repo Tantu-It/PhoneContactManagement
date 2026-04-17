@@ -1,0 +1,24 @@
+# ninja log v6
+48	797	7977012277732678	CMakeFiles/phone_contact.dir/FriendContact.cpp.obj	7501b3c600b81010
+20	868	7977012277412497	CMakeFiles/phone_contact.dir/Contact.cpp.obj	9d10b82e6abd17d7
+30	806	7977012277540846	CMakeFiles/phone_contact.dir/FamilyContact.cpp.obj	ad3757238387474c
+65	809	7977012277893414	CMakeFiles/phone_contact.dir/WorkContact.cpp.obj	29dcc598def6f7a3
+152	1025	7977428251319187	CMakeFiles/phone_contact.dir/main.cpp.obj	ca1774ef1c0a638d
+164	1073	7977428251569479	CMakeFiles/phone_contact.dir/ContactManager.cpp.obj	e0e3dac08af0426d
+1074	1478	7977428260536622	phone_contact.exe	5fc42adbfc7db65a
+4	973	7977488201394237	CMakeFiles/phone_contact.dir/main.cpp.obj	ca1774ef1c0a638d
+976	1236	7977488211109789	phone_contact.exe	5fc42adbfc7db65a
+44	1310	7978689702705830	CMakeFiles/phone_contact.dir/WorkContact.cpp.obj	29dcc598def6f7a3
+14	1316	7978689702387939	CMakeFiles/phone_contact.dir/main.cpp.obj	ca1774ef1c0a638d
+20	1319	7978689702387939	CMakeFiles/phone_contact.dir/Contact.cpp.obj	9d10b82e6abd17d7
+37	1322	7978689702574624	CMakeFiles/phone_contact.dir/FriendContact.cpp.obj	7501b3c600b81010
+28	1325	7978689702546510	CMakeFiles/phone_contact.dir/FamilyContact.cpp.obj	ad3757238387474c
+51	1336	7978689702781119	CMakeFiles/phone_contact.dir/ContactManager.cpp.obj	e0e3dac08af0426d
+1336	1738	7978689715622454	phone_contact.exe	5fc42adbfc7db65a
+27	965	7978698829752049	CMakeFiles/phone_contact.dir/WorkContact.cpp.obj	29dcc598def6f7a3
+21	969	7978698829676227	CMakeFiles/phone_contact.dir/FriendContact.cpp.obj	7501b3c600b81010
+9	972	7978698829564190	CMakeFiles/phone_contact.dir/Contact.cpp.obj	9d10b82e6abd17d7
+14	974	7978698829584294	CMakeFiles/phone_contact.dir/FamilyContact.cpp.obj	ad3757238387474c
+4	1005	7978698829483718	CMakeFiles/phone_contact.dir/main.cpp.obj	ca1774ef1c0a638d
+32	1098	7978698829800424	CMakeFiles/phone_contact.dir/ContactManager.cpp.obj	e0e3dac08af0426d
+1098	1363	7978698840387857	phone_contact.exe	5fc42adbfc7db65a
